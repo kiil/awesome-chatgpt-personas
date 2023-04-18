@@ -1,4 +1,4 @@
-# Awesome chatGPT personas
+# Awesome ChatGPT Personas
 
 Writing styles in OpenAI's chatGPT through Myers–Briggs Type Indicators
 
@@ -15,3 +15,9 @@ The fact that people have written about assumed personality traits in the close 
 I have initially included four personas.
 
 I welcome pull requests for more personas.
+
+## Integration
+
+The **Awesome ChatGPT Personas** project follows the field structure laid out in [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts), from which also the awesome name draws obvious inspiration.
+
+You should be able to use **personas** and **prompts** interchangeably.
