@@ -4,7 +4,7 @@ Writing styles in OpenAI's chatGPT through Myers–Briggs Type Indicators
 
 ## Why Myers-Briggs
 
-Lots of people seem to think that the Myers-Briggs Type Indicators are linked to certain persistent characteristics in a persons personality, including their writing style.
+Lots of people seem to think that the Myers-Briggs Type Indicators are linked to certain persistent characteristics in a person's particular personality, including their writing style.
 
 Whether this belief actually holds true for any particular individual over time is less important in this context.
 
